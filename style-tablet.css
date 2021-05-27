@@ -1,0 +1,80 @@
+@media only screen and (min-width: 600px) and (max-width:900px) {
+    .wrapper{
+        min-width: 600px;
+        max-width: 900px;
+        margin: 0 auto;
+        /* margin: 0 0 0 0; */
+    }
+    .header {
+        width: 100%;
+      }
+    .container1 {
+      height: 200px;
+      /* width: 100%; */
+      margin-left: 5%;
+    }
+    .container1 > h1 {
+        font-size: 50px;
+        width: auto;
+    }
+    .container1 > p {
+        font-size: 16px;
+        width: auto;
+        /* width: 630px; */
+        /* margin-bottom: 30px; */
+        /* margin-left: 30px; */
+      }
+    .button-container1 {
+        height: 46px;
+        width: 216px;
+        font-size: 15px;
+      }
+    .container2 > h1 {
+      font-size: 42px;
+      padding-bottom: 12%;
+      }
+    .container2 {
+    height: 900px;  
+      margin-bottom: -10%;
+      }
+    .container3 {
+      margin-top: 13%;
+      }
+    .container3 > div > h1 {
+      font-size: 42px;
+    }
+    .container4 h1{
+      font-size: 42px;
+    }
+    .container5 h1{
+      font-size: 42px;
+    }
+    .container5 div div img {
+        width: 80px;
+    }
+    .container5 div div p {
+        font-size: 20px;
+    }
+    .container6 > h1 {
+        font-size: 42px;
+    }
+    .button-container6 {
+      /* height: 56px; */
+      width: 335px;
+      height: 52px;
+      font-size: 16px;
+    }
+    .bottom {
+        height: 30px;
+      }
+      .bottom-text {
+        font-size: 14px;
+      }
+      .socialUL {
+        font-size: 14px;
+      }
+      .social {
+        margin-left: 18px;
+        margin-right: 25px;
+      }
+}
